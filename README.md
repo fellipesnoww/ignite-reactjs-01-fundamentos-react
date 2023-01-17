@@ -1,3 +1,5 @@
+![Capa](https://user-images.githubusercontent.com/48105194/212929801-ca7b589d-84f0-44be-8685-eac2a60bef94.png)
+
 # Ignite Feed
 
 Projeto criado no bootcamp Ignite oferecido pela Rockeseat, com o intuito de por em prática os conceitos basicos do ReactJS.
